@@ -1,7 +1,10 @@
+<br>
 <div align="center">
-  <img src="clock.svg" width="400" />
+  <img src="clock.svg" width="500" />
+  <br>
   <p> Hi there Arseni 👋</p>
 </div>
+v
 <!--
 **ArseniZar/ArseniZar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
