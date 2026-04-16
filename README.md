@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div align="center">
+  <img src="clock.svg" width="400" />
+  <p> Hi there Arseni 👋</p>
+</div>
 <!--
 **ArseniZar/ArseniZar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
